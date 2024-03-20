@@ -94,7 +94,7 @@ export default {
     //네이버로그인
     initializeNaverLogin() {
       const clientId = "_5AP836fsvHSOPabzLh3";
-      const callbackUrl = "http://localhost:8080/";
+      const callbackUrl = "https://rlobll.github.io/";
 
       const naverIdLogin = new naver_id_login(clientId, callbackUrl);
       const state = naverIdLogin.getUniqState();

@@ -341,7 +341,7 @@ export default {
     //네이버로그인 콜백
     const naver_id_login = new naver_id_login(
       "_5AP836fsvHSOPabzLh3",
-      "http://localhost:8080/"
+      "https://rlobll.github.io/"
     );
     const state = naver_id_login.getUniqState();
     naver_id_login.setButton("white", 2, 40);
