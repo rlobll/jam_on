@@ -33,6 +33,10 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - in package.json
 - n
 
-#### 설치한 모듈
+### 사용한 기술과 라이브러리
 
-swiper, vue-awesome-swiper, vue-router, vuex
+- swiper : npm install swiper@5.4.5
+- vue-awesome-swiper : npm install swiper vue-awesome-swiper@4.1.1
+- vue-router
+- vuex
+- NaverLogin API
